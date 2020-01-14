@@ -1,5 +1,13 @@
 .quote {
-  color: red;
+  color: #ff0000;
   width: 500px;
   border: 1px solid black;
+}
+
+p {
+	color: green;
+}
+
+#lede {
+	color: blue;
 }
